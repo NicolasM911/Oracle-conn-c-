@@ -1,0 +1,14 @@
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\bin\Debug\Login2.exe.config
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\bin\Debug\Login2.exe
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\bin\Debug\Login2.pdb
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.csproj.AssemblyReference.cache
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.csproj.SuggestedBindingRedirects.cache
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.Form1.resources
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.Properties.Resources.resources
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.csproj.GenerateResource.cache
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.csproj.CoreCompileInputs.cache
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.csproj.CopyComplete
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.exe
+C:\Users\evilblood.BLOOD-DESKTOP\Documents\4.PROYECTOS\c#\Oracle-c#-conn\Login2\Login2\obj\Debug\Login2.pdb
